@@ -10,8 +10,8 @@ footer, main{
     background-color: beige;
 }
 .info{
-    color:white;
+    color:black;
     float:left;
     border: 1px;
-    background-color: black;
+    border-color: black;
 }
